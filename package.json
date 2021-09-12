@@ -1,0 +1,19 @@
+{
+  "name": "projecteuler-8",
+  "version": "1.0.0",
+  "description": "1000 basamaklı sayının en büyük çarpımı olan on üç basamağı bulun. Bu ürünün değeri nedir?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihaitachi0816/projectEuler-8.git"
+  },
+  "author": "\"Göksal Yılmaz\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihaitachi0816/projectEuler-8/issues"
+  },
+  "homepage": "https://github.com/uchihaitachi0816/projectEuler-8#readme"
+}
